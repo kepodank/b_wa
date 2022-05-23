@@ -1,3 +1,3 @@
 <?php
-echo date('d-m-Y');
+header('Location: http://www.google.com/');
 ?>
