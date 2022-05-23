@@ -1,3 +1,3 @@
 <?php
-header('Location: http://www.google.com/');
+echo 'mamet was here';
 ?>
